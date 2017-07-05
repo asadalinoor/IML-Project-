@@ -11,7 +11,7 @@
   Firstly i will tell you how to load dataset, and how to run dataset.
   For loading the data, first we import pnadas library.
   import pandas as pd
-  Now, we read the data from csv file
+  Now, we read the data from csv file.
   data = pd.read_csv('RealEstate.csv')
   now display data.
   data.head()
