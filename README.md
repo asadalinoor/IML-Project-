@@ -22,7 +22,11 @@ Run a code on jupyter cell using Shift-Enter. There are two more keyboard shortc
 Dependencies of our project run:
 - Jupyter NoteBook 4.3.1 or above
 - Anaconda Navigator version 1.5 with Python 3.5 or above
-- Congratulations, we installed Jupyter Notebook. To run the notebook: jupyter notebook
+- Now downloads these packages in environment.
+  - Jupyter
+  - Numpy
+  - Pandas
+  - Scikit-learn
 
 # Architecture
   
