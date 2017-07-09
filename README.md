@@ -33,6 +33,7 @@ Dependencies of our project run:
   We are using two alogrithms one is Linear Regression and other is Neural Netwwork. We are using real estate data. After loading the data, we dropped out of that columns which we did not use. In our project basically we are handle the accuracy of price house. In our dataset we dropped id, status, and size of the house columns because they were not tell prediction. After did it, we did convert some cuolumns in to binary form because they can help to find accuracy. Now firstly, we apply the linear regression model and then apply nueral netwrok model on dataset and at the end we did find the accuracy of the given data and they gave us to results.
   
 # Results
+ /* Results will be uploaded soon *\
 # Conclusion
   
   In conclusion, we discuss the overall expireince for complete our project. First Linear Regression is a good model, it give us to prediction but you know every model has a drowback. Linear regression does not handle the overfitting issue and it is very sensitive with the outliers. Linear regressions are meant to describe linear relationships between variables. So, if there is a nonlinear relationship, then it is a bad model. It means it is good for Linear data. If non-linearty occurs then it is fail, so in this case we will apply Neural Network Model it will give us linearty. Neural Netwrok also use for prediction but main advantage is Neural network is adaptable to a wide range of parameters and data requirements, as well as the fact they are easy to use, requiring minimal statistics training.
