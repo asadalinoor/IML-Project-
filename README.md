@@ -17,4 +17,11 @@
 - activate Environment
 - file name.py
 
-# Algorithm
+Dependencies of our project run:
+- Jupyter NoteBook 4.3.1 or above
+- Pyhton 3.5 or above
+- Anaconda Navigator version 1.5
+
+# Architecture
+# Results
+# Conclusion
