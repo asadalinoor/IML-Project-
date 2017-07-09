@@ -22,13 +22,13 @@ Run a code on jupyter cell using Shift-Enter. There are two more keyboard shortc
 Dependencies of our project run:
 - Jupyter NoteBook 4.3.1 or above
 - Anaconda Navigator version 1.5 with Python 3.5 or above
-- Now downloads these packages in environment.
+- These packages are also include in environment.
   - Jupyter
   - Numpy
   - Pandas
   - Scikit-learn
 
-# Architecture
+# Implementation
   
   We are using two alogrithms one is Linear Regression and other is Neural Netwwork. We are using real estate data. After loading the data, we dropped out of that columns which we did not use. In our project basically we are handle the accuracy of price house. In our dataset we dropped id, status, and size of the house columns because they were not tell prediction. After did it, we did convert some cuolumns in to binary form because they can help to find accuracy. Now firstly, we apply the linear regression model and then apply nueral netwrok model on dataset and at the end we did find the accuracy of the given data and they gave us to results.
   
