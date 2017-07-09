@@ -9,7 +9,7 @@
 
 # How to Run
 
-  In this section we will tell you how to load dataset, and how to run dataset.For loading dataset, we read the data from csv file --> data = pd.read_csv('RealEstate.csv'). Now we will tell you runnning proces on Jupyter. Run a code cell using Shift-Enter. There are two more keyboard shortcuts for running code.
+  In this section we will tell you how to load dataset, and how to run dataset.For loading dataset, we read the data from csv file --> data = pd.read_csv('RealEstate.csv'). Now we will tell you runnning proces on Jupyter.The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):jupyter notebook. Run a code on jupyter cell using Shift-Enter. There are two more keyboard shortcuts for running code.
 - Alt-Enter runs the current cell and inserts a new one below.
 - Ctrl-Enter run the current cell and enters command mode. 
 
