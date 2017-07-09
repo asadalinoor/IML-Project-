@@ -8,5 +8,12 @@
   For loading the data, first we import pnadas library.
 
 # How to Run
-  Firstly i will tell you how to load dataset, and how to run dataset.
-  For loading the data, first we import pnadas library --> import pandas as pd. Now, we read the data from csv file --> data = pd.read_csv('RealEstate.csv'). Now for display data --> data.head()
+
+  In this section we will tell you how to load dataset, and how to run dataset.For loading dataset, we read the data from csv file --> data = pd.read_csv('RealEstate.csv'). Now we will tell you runnning proces on Jupyter. Run a code cell using # Shift-Enter. There are two more keyboard shortcuts for running code.
+1) Alt-Enter runs the current cell and inserts a new one below.
+2) Ctrl-Enter run the current cell and enters command mode.
+After running the code on Jupyter, we will run python file on anaconda when we downloaded from jupyter. On anaconda we shall open terminal through project environment. We will follow two steps for running the code on anaconda.
+1) activate Environment
+2) file name.py
+
+# Algorithm
