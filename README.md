@@ -41,7 +41,8 @@ Dependencies of our project run:
 # Results
  /* Results will be uploaded soon *\
  
- ![Alt text](https://github.com/asadalinoor/IML-Project-/blob/master/4.PNG "Optional Title")
+ ![Alt text](https://github.com/asadalinoor/IML-Project-/blob/master/four.png "Optional Title")
+ ![Alt text](https://github.com/asadalinoor/IML-Project-/blob/master/five.png "Optional Title")
 
  
 # Conclusion
