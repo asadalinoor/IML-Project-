@@ -39,11 +39,18 @@ Dependencies of our project run:
 
   
 # Results
- /* Results will be uploaded soon *\
+ 
+ First we apply the Linear Regression model on local dataset. It give us the mean square error and variance of the Price Per Square Feet. It give us to minimum mean square which is good to us. It means that we predict nearly on original price. You can see mean square error  during Linear regression apply on local dataset. You can see in figure 1. Mean Square Error is 142.75 while we using Linear Regression Model.
  
  ![Alt text](https://github.com/asadalinoor/IML-Project-/blob/master/four.png "Optional Title")
+ Figure 1
+ 
+ After that we apply the Nueral Network on same dataset. It give us also good variance and minimum mean square error. You can see in figure 2. Mean Square Error is: 146.46 while we using Neural Network Model.
+ 
  ![Alt text](https://github.com/asadalinoor/IML-Project-/blob/master/five.png "Optional Title")
-
+ Figure 2
+ 
+ So finally, when we compare both mean square error which is minimum and which is good then we can say that it is pretty difference between both of models in this local dataset. Both are good for this dataset but mean square error of Linear Regression model is less than mean square error of Nueral Network. Only 3.71 difference between both mean square error. 146.46-142.75 = 3.71
  
 # Conclusion
   
