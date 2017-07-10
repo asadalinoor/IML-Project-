@@ -40,6 +40,10 @@ Dependencies of our project run:
   
 # Results
  /* Results will be uploaded soon *\
+ 
+ ![Alt text](https://github.com/asadalinoor/IML-Project-/blob/master/4.PNG "Optional Title")
+
+ 
 # Conclusion
   
   In conclusion, we discuss the overall expireince for complete our project. First Linear Regression is a good model, it give us to prediction but you know every model has a drowback. Linear regression does not handle the overfitting issue and it is very sensitive with the outliers. Linear regressions are meant to describe linear relationships between variables. So, if there is a nonlinear relationship, then it is a bad model. It means it is good for Linear data. If non-linearty occurs then it is fail, so in this case we will apply Neural Network Model it will give us linearty. Neural Netwrok also use for prediction but main advantage is Neural network is adaptable to a wide range of parameters and data requirements, as well as the fact they are easy to use, requiring minimal statistics training.
