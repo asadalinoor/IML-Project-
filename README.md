@@ -26,6 +26,7 @@ Dependencies of our project run:
   - Jupyter
   - Numpy
   - Pandas
+  - Matplotlib
   - Scikit-learn
 
 # Implementation
